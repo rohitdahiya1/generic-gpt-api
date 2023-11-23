@@ -15,7 +15,6 @@ def excel_to_text(file_path):
 
 # Initialize the OpenAI client
 openai.api_key = os.getenv("OPENAI_API_KEY")
-OPENAI_API_KEY="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"
 
 
 # Function to initialize the conversation with the document text
