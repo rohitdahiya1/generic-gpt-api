@@ -71,7 +71,9 @@ def main():
     # Check if files have been uploaded
     if uploaded_files:
         process_files(uploaded_files)
+        print("kaka")
 
 if __name__ == "__main__":
     main()
     print("xxxxx")
+    print("cccc")
