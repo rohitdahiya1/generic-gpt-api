@@ -76,8 +76,4 @@ def main():
 if __name__ == "__main__":
     main()
     print("xxxxx")
-    print("cccc")
-    print("my name is rohit")
-    print("helloooo")
-    print("noooooooooooo")
-    print("fffffff")
+    print("fffzzz")
